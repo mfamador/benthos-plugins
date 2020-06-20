@@ -1,5 +1,5 @@
 // plugin package for test application
-package plugin
+package sarcasm
 
 import (
 	"bytes"
